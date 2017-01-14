@@ -691,6 +691,7 @@
 /* Main */
 
 	#main {
+		margin-top:4%;
 		position: relative;
 		max-width: 100%;
 		min-width: 27em;
