@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "Apercu Mono";
+    src: url("./fonts/Apercu Mono.otf") format('truetype');
+    src: local('Apercu Mono'),
+    local('./fonts/Apercu Mono.otf'),
+    url('./fonts/Apercu Mono') format('truetype'),
+}
+
+#main h2 {
+    margin-top: 15%;
+    font-size: 9em;
+    font-family: "Apercu Mono";
+    text-shadow: -5px 3px 1px rgba(32, 75, 103,1);
+}
+
+#main p{
+	color: #204b67;
+}
+
